@@ -1,0 +1,5 @@
+### GET요청 '/restaurants'
+GET http://localhost:5000/restaurants
+
+### GET요청 '/menus'
+GET http://localhost:5000/menus
